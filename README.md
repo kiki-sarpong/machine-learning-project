@@ -12,7 +12,7 @@ This is similar to the 5 star system but in this case the machine model predicts
 5 star - Highly Positive<br>
 <br>
 The amazon fine-food dataset can be downloaded from https://www.kaggle.com/snap/amazon-fine-food-reviews
-<br>
+<br><br>
 This project is also heavily influenced by:<br>
 https://www.kaggle.com/muhammadrehan444/advance-sentiment-analysis
 <br>
