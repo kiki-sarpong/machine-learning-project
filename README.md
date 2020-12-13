@@ -3,7 +3,7 @@ Machine Learning Project for fall 2020.
 
 Project topic is centering Natural Language Processing sentiment analysis.<br><br>
 We study a dataset of amazon fine food reviews and create a machine learning model to predict the sentiment behind the review.<br>
-This is similar to the 5 star system but in this case the machine model predicts the star level of the review.<br>
+This is similar to the 5 star system but in this case the machine learning model predicts the star level of the review.<br>
 <br>
 1 star - Highly Negative<br>
 2 star - Somewhat Negative<br>
@@ -20,4 +20,4 @@ https://www.pluralsight.com/guides/building-a-twitter-sentiment-analysis-in-pyth
 <br>
 <br>
 The machine learning model was trained on a Google colab GPU.<br>
-The powerpoint containing additional detail on the project is below.
+A powerpoint containing additional detail on the project is attached.
