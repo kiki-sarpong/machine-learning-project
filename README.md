@@ -21,3 +21,10 @@ https://www.pluralsight.com/guides/building-a-twitter-sentiment-analysis-in-pyth
 <br>
 The machine learning model was trained on a Google colab GPU.<br>
 A powerpoint containing additional detail on the project is attached.
+<br>
+<br>
+## Professor's comments: <br>
+Formulation:  Simple, but clear problem of sentiment analysis on reviews. Good datasets (5/7)<br><br>
+Approach:  Excellent pre-processing of data for vectorization and padding for the RNN. Nice use of multiple models. Well implemented. I may have tried some regularization, esp LASSO. (5/7) <br><br>
+Evaluation: Good test of multiple models.  Clear results.  Interesting that RNN does much better.  (5/6)<br><br>
+Presentation:  The powerpoint file is awesome!  Great visualizations of each step in the code.  Could be teaching material (5/6)<br><br>
